@@ -16,7 +16,7 @@ Summary:        MinGW port of bzip2 file compression utility
 
 License:        BSD
 Group:          Development/Other
-URL:            http://www.bzip.org/
+URL:            https://www.bzip.org/
 Source0:        http://www.bzip.org/%{version}/bzip2-%{version}.tar.gz
 BuildRoot:      %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 
