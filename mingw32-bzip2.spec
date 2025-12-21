@@ -29,6 +29,7 @@ Patch6:         bzip2-1.0.4-bzip2recover.patch
 Patch10:        mingw32-bzip2-1.0.5-slash.patch
 Patch11:        mingw32-bzip2-1.0.5-dll.patch
 
+BuildRequires:	make
 BuildRequires:  mingw32-filesystem >= 26
 BuildRequires:  mingw32-gcc
 BuildRequires:  mingw32-binutils
