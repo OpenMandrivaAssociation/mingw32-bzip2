@@ -11,7 +11,7 @@
 
 Name:           mingw32-bzip2
 Version:        1.0.5
-Release:        %mkrel 3
+Release:        4
 Summary:        MinGW port of bzip2 file compression utility
 
 License:        BSD
